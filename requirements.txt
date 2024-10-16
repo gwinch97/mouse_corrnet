@@ -1,0 +1,8 @@
+numpy~=2.1.2
+networkx~=3.4
+scipy~=1.14.1
+topcorr~=0.18
+tqdm~=4.66.5
+joblib~=1.4.2
+tqdm_joblib~=0.0.4
+scikit-learn~=1.5.2
