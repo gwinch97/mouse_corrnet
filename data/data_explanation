@@ -1,0 +1,3 @@
+Install two-photon imaging data from here: https://rdr.ucl.ac.uk/articles/dataset/Two-photon_imaging_of_neurons_in_mouse_superior_colliculus_npy_/12162324?backTo=/collections/Arousal_modulates_retinal_output/4934931
+
+And unzip contents (including nested zip of data SS038,41,44,45,47,48) to this data directory.
